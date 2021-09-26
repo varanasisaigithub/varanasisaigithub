@@ -37,7 +37,10 @@
   - Link - https://www.youtube.com/watch?v=_s7ErNMF0xw&ab_channel=varanasisainath
   - To-Do - AAOS on a tablet, Get Vehicle Data via OBD2 -> BT, Stream audio/media from tablet -> IHU over BT.
 
-### 
+### EV Charge Aggregator
+- The idea is to aggrerate EV charge providers
+- Link - TO-DO
+- 
 
 <!---
 varanasisaigithub/varanasisaigithub is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
