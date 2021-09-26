@@ -231,6 +231,7 @@ num = df.pid.value_counts().head(10)
 print(num.head(5))
 num.plot(xlabel = "PID", ylabel='Number of Lines', title='PID vs #Lines', kind='bar')
 ```
+![plot](https://user-images.githubusercontent.com/3856415/134793641-1e5a9455-e560-432b-9d2b-fba92a6efcf4.PNG)
 
 ```python
 
