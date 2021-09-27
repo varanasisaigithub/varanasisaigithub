@@ -37,13 +37,13 @@
   - Link - https://www.youtube.com/watch?v=9b8pSnqvYcA&ab_channel=varanasisainath
 
 > ### *Low Cost Infotainment*
-- The idea is to develop a low cost infotainment system for vehicles already in market
+- Idea is to develop a low cost infotainment system for vehicles already in market
   - Why - to connect the existing vehicles to new technology
   - Link - https://www.youtube.com/watch?v=_s7ErNMF0xw&ab_channel=varanasisainath
   - To-Do - AAOS on a tablet, Get Vehicle Data via OBD2 -> BT, Stream audio/media from tablet -> IHU over BT.
 
 > ### *EV Charge Aggregator*
-- The idea is to aggrerate EV charge providers
+- Idea is to aggrerate EV charge providers
   - Link - TO-DO
   - 
 
