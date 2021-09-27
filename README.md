@@ -26,7 +26,7 @@
   - Link - http://flipcart.github.io/athanor/
 
 > ### *Transrev - Connecting People and Transit*
-- The idea is to connect people and public transport system in the best ways possible.
+- Idea is to connect people and public transport system in the best ways possible.
   -  Why - to reduce pollution, reduce accidents, improve transit effciency 
   -  This was developed and deployed on AWS server
   - Link - http://transrev.github.io/slides/#/
