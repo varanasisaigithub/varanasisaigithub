@@ -7,9 +7,8 @@
 
 
 ---
-## My Fun Projects
-> - android-log-parser.md - https://github.com/varanasisaigithub/varanasisaigithub/blob/main/android-log-parser.md 
-
+## Tool Projects
+> - android-log-parser.md - https://github.com/varanasisaigithub/varanasisaigithub/blob/main/android-log-parser.md  
 
 ---
 
