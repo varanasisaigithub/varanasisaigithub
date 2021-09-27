@@ -7,13 +7,13 @@
 
 
 ---
-## Tool Projects
+## Tools
 > - android-log-parser.md - https://github.com/varanasisaigithub/varanasisaigithub/blob/main/android-log-parser.md  
 
 ---
 
 
-## Projects/Hackathons 
+## Projects and Hackathons 
 
 > ### *Onstore - Turn your mobile into point of sale*
   - Idea is to make billing process easy
